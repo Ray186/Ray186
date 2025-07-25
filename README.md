@@ -7,7 +7,7 @@
 - 📚 So far I've learned **Java** and **Python**
 - 📚 Ive taken APCSA
 - 🎮 In my free time I enjoy playing Valorant and Rainbow Six: Siege x
-- -Most Played Game: [Roblox](https://www.roblox.com/home)
+- Most Played Game: [Roblox](https://www.roblox.com/home)
 
 ## 🛠️ Languages and Tools
 
