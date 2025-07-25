@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/91495d6e-df64-4683-967b-192aed93639d" width=200>
+</p>
+
+
+
+
 # 👋 Hi, I'm Reilly Castillo
 
 🎯 I’m a student passionate about **hardware tech**, **software development**, and **STEM innovation**
